@@ -1,1 +1,1 @@
-Open : command + space bar
+Open : command + space bar = Spot Light Search
