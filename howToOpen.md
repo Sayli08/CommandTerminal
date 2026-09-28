@@ -1,0 +1,1 @@
+Open : command + space bar
